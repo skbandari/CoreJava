@@ -13,5 +13,12 @@ public class StackDemo {
         for(int i=0; i<10; i++) {
             System.out.println(st.pop());
         }
+
+        st.push(10);
+        st.push(11);
+
+        for(int i=0; i<10; i++) {
+
+        }
     }
 }
